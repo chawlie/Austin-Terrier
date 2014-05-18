@@ -1,0 +1,24 @@
+/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Sublime, Git, Sass
+                            
+/* TEAM */
+                      
+Front-End Web Developer: CHAWLIE - Charlie Chauvin.                            
+Site: http://www.chawlie.com
+Email: charliechauvin@gmail.com                          
+Twitter: @charliechauvin
+Location: Austin, Texas
+
+Designer: Ty Wilkins                            
+Site: http://www.tywilkins.com                         
+							
+/* THANKS */
+Name: Ricardo Henriquez
+Site: http://www.chimplink.com/
+Thanks for the help getting Foundation to work.
