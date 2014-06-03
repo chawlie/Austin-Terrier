@@ -31,7 +31,7 @@ a:hover {
 	color: #FFCC00;
 }
 
-a.anchor {
+a.anchor, a.anchorphotos {
 	display: block;
 	position: relative;
 	top: -100px; 
@@ -345,9 +345,8 @@ p.item {
 .sponsors ul {
 	color: #fff;
 	font-size: 1em;
-	font-weight: 700;
+	font-weight: 400;
 	font-style: normal;
-	font-family: "jaf-facitweb";
 	line-height: 1.25em;
 }
 
@@ -388,6 +387,11 @@ p.item {
 	font-style: normal;
 	font-family: "jaf-facitweb";
 	letter-spacing: 0.125em;
+	margin: 0px;
+	line-height: 18px;
+}
+.footer br {
+	display: none;
 }
 .address {
 	max-width: 800px;
