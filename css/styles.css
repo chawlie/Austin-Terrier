@@ -31,6 +31,15 @@ a:hover {
 	color: #FFCC00;
 }
 
+.footer a:link, footer a:visited {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.footer a:hover {
+	color: #000;
+}
+
 a.anchor, a.anchorphotos {
 	display: block;
 	position: relative;
