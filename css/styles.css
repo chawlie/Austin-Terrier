@@ -138,6 +138,15 @@ p.item {
 	width: 100%;
 }
 
+.hero a:link, .hero a:visited {
+	color: #000;
+	text-decoration: underline;
+}
+
+.hero a:hover {
+	color: #fff;
+}
+
 .address-bar address {
 	background: #FFB501;
 	color: #121314;
